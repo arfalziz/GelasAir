@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GelasAir</string>
+    <string name="format_jumlah">%1$d / %2$d gelas</string>
+    <string name="status_tercapai">Target harian tercapai</string>
+    <string name="status_belum">Belum mencapai target</string>
+    <string name="tombol_tambah">+1 Gelas</string>
+    <string name="tombol_kurangi">-1 Gelas</string>
+    <string name="tombol_reset">Reset</string>
+</resources>
